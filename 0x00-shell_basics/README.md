@@ -1,1 +1,1 @@
-current working directory
+my first directory
